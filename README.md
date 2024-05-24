@@ -1,6 +1,6 @@
 # Brazilian-Ecommerce-Analysis
 
-Kumpulan data ini disediakan dengan murah hati oleh Olist, department store terbesar di pasar Brasil. Olist menghubungkan usaha kecil dari seluruh Brasil ke saluran tanpa kerumitan dan dengan satu kontrak. Merchant tersebut dapat menjual produknya melalui Olist Store dan mengirimkannya langsung ke pelanggan menggunakan mitra logistik Olist. Lihat lebih lanjut di situs web kami: www.olist.com
+Kumpulan data ini disediakan dengan murah hati oleh Olist, department store terbesar di pasar Brasil. Olist menghubungkan usaha kecil dari seluruh Brasil ke saluran tanpa kerumitan dan dengan satu kontrak. Merchant tersebut dapat menjual produknya melalui Olist Store dan mengirimkannya langsung ke pelanggan menggunakan mitra logistik Olist.
 
 Setelah pelanggan membeli produk dari Olist Store, penjual mendapat pemberitahuan untuk memenuhi pesanan tersebut. Setelah pelanggan menerima produk, atau perkiraan tanggal pengiriman jatuh tempo, pelanggan mendapatkan survei kepuasan melalui email di mana dia dapat memberikan catatan untuk pengalaman pembelian dan menuliskan beberapa komentar.
 
